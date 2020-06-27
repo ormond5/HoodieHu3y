@@ -11,8 +11,8 @@
 # (Using that method instead of site.owner, in case your posts get cloned with your repo.)
 
 # Site settings
-title: _site name_
-description: _description_
+title: HoodieSzn
+description: A little blog about me and my journey!
 owner:
   name: Hu3y # or company name
   url: "http://example.com" # your URL
@@ -29,7 +29,7 @@ lang: en-us # used in HTML lang attributes
 # - set the greeting only if you want to display the first green section
 greeting:
   title: Welcome to my blog!  
-  text: _Your detailed greeting text_
+  text: Take a look around! I hope you enjoy
 # - displayed at the bottom
 closing-head: _Your closing_
 closing-para: _Your detailed closing_
