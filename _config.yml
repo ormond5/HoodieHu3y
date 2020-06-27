@@ -14,7 +14,7 @@
 title: _site name_
 description: _description_
 owner:
-  name: _your name_ # or company name
+  name: Hu3y # or company name
   url: "http://example.com" # your URL
 first_published: 2010 # if migrating another site, the year of your first publish
                       # Must be a 4-digit integer year (math is used on it)
@@ -28,7 +28,7 @@ lang: en-us # used in HTML lang attributes
 # on landing page
 # - set the greeting only if you want to display the first green section
 greeting:
-  title: _Your greeting_  
+  title: Welcome to my blog!  
   text: _Your detailed greeting text_
 # - displayed at the bottom
 closing-head: _Your closing_
